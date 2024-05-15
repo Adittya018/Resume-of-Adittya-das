@@ -1,2 +1,3 @@
 # Resume-of-Adittya-das
-MY first repository
+MY first repository<br> 
+AUthoor - Adittya das
